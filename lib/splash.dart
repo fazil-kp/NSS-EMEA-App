@@ -28,7 +28,7 @@ class SplashScreenState extends State<Splash> {
       title: Text(
         "NSS EMEA",
         style: TextStyle(
-          fontSize: 20,
+          fontSize: 21,
           fontWeight: FontWeight.bold,
         ),
       ),
